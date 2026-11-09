@@ -19,6 +19,8 @@ pi install git:github.com/ZiChuanLan/pi-purge@ffafeb9
 pi install npm:pi-purge
 ```
 
+ffafeb9 = ffafeb940339d59fc6af4a05dc754019cef3a1ac
+
 Then, inside a session:
 
 ```text
